@@ -1,0 +1,251 @@
+
+ /* ---------nav------ */
+
+
+ .navs{
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+ }
+ .nav1{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+ }
+
+
+ /* ---------nav------ */
+
+
+
+
+/* --------------------------black----------------- */
+.blank{
+    background-color: black;
+    width: 100%;
+    height: 300px;
+}
+
+
+
+
+/* --------------------------black----------------- */
+
+.niche-1{
+    background-color: rgb(17, 185,143);
+    border-radius: 15px;
+    width: 90%;
+    display: flex;
+    margin: 60px;
+    justify-content: space-between;
+    /* margin-top: 70px;
+    padding-top: 30px; */
+}
+
+.niche{
+    background-color: rgb(17, 185,143);
+    border-radius: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* margin-top: 70px;
+    padding-top: 30px; */
+}
+
+.vector{
+    width: 20px;
+padding-right: 20px;
+    padding-top: 20px;
+    
+}
+.content{
+   margin: 60px;
+    background-color:rgb(234, 240, 246);
+    width: 90%;
+    height: auto;
+}
+
+.container{
+    display: flex;
+    
+}
+.con1{
+   padding: 20px;
+    margin: 30px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.con2{
+    padding: 20px;
+     margin: 30px;
+     background-color: white;
+     border-radius: 15px;
+     height: 100%;
+ }
+
+.searching{
+    background-color: rgb(234, 240, 246);
+    display: flex;
+    padding: 20px;
+    font-weight: bold;
+    width: 400px;
+    height: 30px;
+    border-radius: 15px;
+
+}
+
+.btn_check{
+    background-color: rgb(17, 185,143) ;
+    padding: 20px;
+    padding-left: 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    justify-content: center;
+}
+
+
+.Quicsk{
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    gap: 20px;
+  
+
+}
+.Quicsk_1{
+    display: flex;
+    flex-direction: row;
+    background-color: #F6FCF9;
+    padding-left: 20px;
+    border: 1px solid lightgreen;
+    border-radius: 15px;
+    padding-bottom: 30px;
+}
+.Quicsk_1_img{
+    background-color: green;
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+
+
+    border-radius: 70px;
+
+}
+
+.Quicsk_1_btn{
+    background-color:  rgb(17, 185,143);
+
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+
+}
+.footer_btn{
+    background-color:  rgb(17, 185,143);
+    border-radius: 15px;
+}
+
+.Quicsk_1_content{
+    padding-left: 20px;
+    
+}
+.btn_text{
+    color: white;
+    
+  
+}
+.Quicsk_title{
+    color: rgb(17, 185,143) ;
+}
+
+
+
+.footer_text{
+width: 300px;
+
+
+
+}
+
+
+
+/* --------------------------------row-2-------------------- */
+.example_content_1{
+    display: flex;
+    flex-direction: row;
+    background-color: #FFF0F0;
+    padding-left: 20px;
+    border: 1px solid red;
+    border-radius: 15px;
+    padding-bottom: 30px;
+
+
+
+
+
+
+    
+}
+
+.example_container{
+margin-top: 30px;
+}
+.example_content_1_img{
+    background-color:red;
+    width: 20px;
+    height: 20px;
+    margin-top: 30px;
+
+
+    border-radius: 70px;    
+}
+
+
+
+.example_content_1_title{
+ color:#FF6767;   
+}
+.example_content_1_title_1{
+    color:#FF8F8F;   
+   }
+
+
+   .example_container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+   }
+
+
+
+
+.foot{
+    margin: 60px;
+    background-color:white;
+    width: 90%;
+    
+    
+ 
+}
+   .foot1{
+    /* margin-top: 50px; */
+    background-color: rgb(17, 185,143);
+ margin-top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 20px;
+
+}
+.foot2{
+    background-color: rgb(17, 185,143);
+ margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 10px;
+    padding-left: 20px;
+}
